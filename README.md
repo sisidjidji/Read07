@@ -1,7 +1,7 @@
 # Read07
 
 
-- **JavaScript**: is a scripting language used to create and control dynamic website content,  anything that moves, refreshes, or otherwise changes on your screen without requiring you to manually reload a web page.
+- **JavaScript**: is a scripting language used to create and control dynamic website content,  anything that moves, refreshes, or just change in the screen 
 
 - **JavaScript** is either embedded into a web page or else it’s included in a .js file. 
 
@@ -10,3 +10,15 @@
      < script type="text/javascript">
       JavaScript code goes here
       < /script>
+
+- Expression:
+- Operator
+- Fonction
+- Function 
+ 1. Declaration 
+ 2. Call
+ 3. Parameters
+ 4. Arguments
+ 5. Return value
+ 6. Refactoring
+
